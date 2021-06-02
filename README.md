@@ -3,7 +3,7 @@
 
 ```
 cargo build
-crgo run
+cargo run
 ```
 
 [http://localhost:8080](http://localhost:8080)
